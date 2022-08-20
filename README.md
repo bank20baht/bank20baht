@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm bank20baht
+
+- 🔭 I’m currently studying at Prince of Songkla University
+- 🌱 I’m currently learning software engineering
+
 
 <!--
 **bank20baht/bank20baht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
