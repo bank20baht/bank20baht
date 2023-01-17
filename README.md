@@ -5,7 +5,7 @@
 - ⚡ I’m interested Parallel programming with c# (beginner) and mobile applicaion with flutter (beginner)
 - 
 - 
-- 💬 I’m looking for an internship 17/1/2023
+- 💬 I'm looking for a company that accepts trainees.(ME) {17/1/2023}
 
 
 <!--
