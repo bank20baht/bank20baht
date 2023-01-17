@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm bank20baht
 
 - 🔭 I’m currently studying at Prince of Songkla University
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning computer engineering
+- ⚡ I'm interested Parallel programming with c# (beginner) and mobile applicaion with flutter (beginner)
 
 
 <!--
