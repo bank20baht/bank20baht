@@ -2,7 +2,10 @@
 
 - 🔭 I’m currently studying at Prince of Songkla University
 - 🌱 I’m currently learning computer engineering
-- ⚡ I'm interested Parallel programming with c# (beginner) and mobile applicaion with flutter (beginner)
+- ⚡ I’m interested Parallel programming with c# (beginner) and mobile applicaion with flutter (beginner)
+- 
+- 
+- 💬 I’m looking for an internship 17/1/2023
 
 
 <!--
