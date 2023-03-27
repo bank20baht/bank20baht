@@ -7,7 +7,7 @@
 - 
 - 💬 I'm looking for a company that accepts trainees.(ME) {17/1/2023}
 
-
+![](https://komarev.com/ghpvc/?username=bank20baht&color=orange)
 <!--
 **bank20baht/bank20baht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
