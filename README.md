@@ -1,11 +1,20 @@
-### Hi there 👋 I'm bank20baht
+## Hi there 👋 I'm bank20baht
+😄 about me
+  - 👏 I'm Nattapong Promthong 
+  - 🔭 I’m currently studying at Prince of Songkla University, Hatyai campus
+  - 🌱 I’m currently learning computer engineering
 
-- 🔭 I’m currently studying at Prince of Songkla University
-- 🌱 I’m currently learning computer engineering
-- ⚡ I’m interested Parallel programming with c# (beginner) and mobile applicaion with flutter (beginner)
-- 
-- 
-- 💬 I'm looking for a company that accepts trainees.(ME) {17/1/2023}
+ 
+ ⚡ I’m interested 
+  - Parallel programming with c# (beginner) 
+  - Mobile applicaion with flutter (beginner)
+  - Full stack web applicattion with react(next.js) and node.js (beginner)
+
+
+# 💬 I'm looking for a co-operative training company. {28/3/2023}
+  - If interested, you can contact at 20baht.bank@gmail.com (Nattapong Promthong)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bank20baht&layout=compact)](https://github.com/bank20baht/github-readme-stats).
 
 ![](https://komarev.com/ghpvc/?username=bank20baht&color=orange)
 <!--
