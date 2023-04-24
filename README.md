@@ -10,8 +10,8 @@
 ```
 ## Hi there 👋 I'm bank20baht
 😄 about me
-  - 👏 I'm Nattapong Promthong 
-  - 🔭 I’m currently studying at Prince of Songkla University, Hatyai campus
+  - 👏 I'm Nattapong Promthong nickname bank
+  - 🔭 I’m currently studying at Prince of Songkla University, Hatyai campus, Thailand
   - 🌱 I’m currently learning computer engineering
 
  
