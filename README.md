@@ -18,6 +18,7 @@
  ⚡ I’m interested 
   - Parallel programming with c# (beginner) 
   - Mobile applicaion with flutter (beginner)
+  - Mobile application with React native (beginner)
   - Full stack web applicattion with react(next.js) and node.js (beginner)
 
 
