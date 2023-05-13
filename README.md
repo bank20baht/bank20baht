@@ -25,7 +25,6 @@
 # 💬 I'm looking for a co-operative training company. {28/3/2023}
   - If interested, you can contact at 20baht.bank@gmail.com (Nattapong Promthong)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bank20baht&layout=compact)](https://github.com/bank20baht/github-readme-stats). 
 
 ![](https://komarev.com/ghpvc/?username=bank20baht&color=orange)<a href="https://profile-summary-for-github.com/user/bank20baht">   Profile Summary</a>
 <!--
