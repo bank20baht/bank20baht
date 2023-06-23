@@ -10,7 +10,7 @@
 ```
 ## Hi there 👋 I'm bank20baht
 😄 about me
-  - 👏 I'm Nattapong Promthong nickname bank
+  - 👏 I'm Nattapong Promthong and nickname bank
   - 🔭 I’m currently studying at Prince of Songkla University, Hatyai campus, Thailand
   - 🌱 I’m currently learning computer engineering
 
@@ -20,7 +20,9 @@
   - Mobile applicaion with flutter (beginner)
   - Mobile application with React native (beginner)
   - Full stack web applicattion with react(next.js) and node.js (beginner)
+  - mongodb , sqlite , ORM prisma, mongoose
 
+medium : https://medium.com/@bank20baht (to practice communication)
 
 # 💬 I'm looking for a co-operative training company. {28/3/2023}
   - If interested, you can contact at 20baht.bank@gmail.com (Nattapong Promthong)
