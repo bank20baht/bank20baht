@@ -21,6 +21,7 @@
   - Mobile application with React native (beginner)
   - Full stack web applicattion with react(next.js) and node.js (beginner)
   - mongodb , sqlite , ORM prisma, mongoose, AsyncStorage
+  - Docker (beginner)
 
 medium : https://medium.com/@bank20baht (to practice communication)
 
