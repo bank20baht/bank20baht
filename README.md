@@ -17,16 +17,15 @@
  
  ⚡ I’m interested 
   - Parallel programming with c# (beginner) 
-  - Mobile applicaion with flutter (beginner)
   - Mobile application with React native (beginner)
-  - Full stack web applicattion with react(next.js) and node.js (beginner)
+  - Full stack web applicattion with react(next.js) and node.js(express) (beginner)
   - mongodb , sqlite , ORM prisma, mongoose, AsyncStorage
   - Docker (beginner)
+  - nestjs (beginner)
+  - vuejs (beginner)
 
 medium : https://medium.com/@bank20baht (to practice communication)
 
-# 💬 I'm looking for a co-operative training company. {26/6/2023}
-  - If interested, you can contact at 20baht.bank@gmail.com (Nattapong Promthong)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bank20baht&layout=compact)](https://github.com/bank20baht/github-readme-stats). 
 
