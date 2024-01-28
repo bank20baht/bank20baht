@@ -16,13 +16,19 @@
 
  
  ⚡ I’m interested 
+  - Microservice
+  - Microfrontend
+  - turbo repo
+  - stencil.js 
   - Parallel programming with c# (beginner) 
   - Mobile application with React native (beginner)
   - Full stack web applicattion with react(next.js) and node.js(express) (beginner)
   - mongodb , sqlite , ORM prisma, mongoose, AsyncStorage
+  - knex.js
   - Docker (beginner)
   - nestjs (beginner)
   - vuejs (beginner)
+  - koa.js with routing-controller, typedi
 
 medium : https://medium.com/@bank20baht (to practice communication)
 
