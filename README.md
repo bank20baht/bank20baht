@@ -23,12 +23,13 @@
 - Parallel programming with c#
 - Mobile application with React native
 - Full stack web application with react(next.js) and node.js(express)
-- mongodb , sqlite , ORM prisma, mongoose, AsyncStorage
+- mongodb , sqlite , ORM prisma, mongoose, AsyncStorage, SQL Server
 - knex.js
 - Docker
 - Nest.js
 - Vue.js
 - koa.js with routing-controller, typedi
+- ASP.NET 8 MinimalAPI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bank20baht&layout=compact)](https://github.com/bank20baht/github-readme-stats).
 
